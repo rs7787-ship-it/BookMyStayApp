@@ -1,1 +1,1 @@
-# BookMyStayApp
+# BasicRoomTypes&StaticAvailability
